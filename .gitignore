@@ -1,0 +1,2 @@
+echo "db_data" >> .gitignore
+echo "wordpress/wp-content/uploads" >> .gitignore
